@@ -52,10 +52,10 @@ We used a combination of **objective metrics**, **musical structure analysis**, 
 You can listen to generated audio samples for both tasks:
 
 - Task 1:
-  - [Conservative Output](#)
-  - [Creative Output](#)
+  - Conservative Output
+  - Creative Output
 - Task 2:
-  - [Conditioned Generation Output](#)
+  - Conditioned Generation Output
 
 ## 🔍 Key Contributions
 
